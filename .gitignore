@@ -1,0 +1,9 @@
+# Note: wildcard '*' does not apply to directories
+# eg log/* will not also ignore 'log/archives/*' 
+temp.php
+*.txt
+!test.txt
+.DS_Store
+log/*
+
+
