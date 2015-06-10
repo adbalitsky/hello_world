@@ -1,1 +1,5 @@
-<?php This is a file ?>
+<?php
+
+This is a file
+
+?>
