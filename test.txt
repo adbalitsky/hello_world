@@ -1,0 +1,4 @@
+Some text goes inside a file
+A man writes a file. 
+A file holds text.
+A text is.
