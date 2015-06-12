@@ -1,1 +1,1 @@
-<?php echo "temp stuff"; ?>
+<?php echo "temporary stuff"; ?>
