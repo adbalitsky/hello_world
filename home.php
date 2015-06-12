@@ -1,5 +1,5 @@
 <?php
 
 echo "The home page";
-echo "juice";
+echo "apple juice";
 ?>
